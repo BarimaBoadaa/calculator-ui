@@ -1,0 +1,29 @@
+body {
+  margin-top: 5rem;
+}
+
+.total {
+  height: 4.5rem;
+  background-color: #848695;
+  text-align: right;
+  border: 1px #aeaeb7 solid;
+  color: White;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.inputs {
+  height: 4rem;
+  background-color: #e0e0e0;
+  border: 0.5px #aeaeb7 solid;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.side-inputs {
+  height: 4rem;
+  background-color: #f5923d;
+  border: 0.5px #aeaeb7 solid;
+  text-align: center;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
